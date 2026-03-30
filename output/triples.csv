@@ -1,0 +1,23 @@
+subject,predicate,object
+Alan Turing,BORN_IN,London
+Alan Turing,BORN_IN_YEAR,1912
+Alan Turing,STUDIED_AT,"King's College, Cambridge"
+Alan Turing,STUDIED_AT,Princeton University
+Alan Turing,STUDIED_UNDER,Alonzo Church
+Alan Turing,PUBLISHED,On Computable Numbers
+On Computable Numbers,PUBLISHED_IN_YEAR,1936
+On Computable Numbers,INTRODUCED,Turing machine
+Alan Turing,WORKED_AT,Bletchley Park
+Alan Turing,WORKED_FOR,Government Code and Cypher School
+Alan Turing,DESIGNED,Bombe
+Bombe,USED_AGAINST,Enigma
+Alan Turing,WORKED_AT,National Physical Laboratory
+Alan Turing,PROPOSED,Automatic Computing Engine
+Alan Turing,JOINED,University of Manchester
+Alan Turing,CONTRIBUTED_TO,Manchester Mark I
+Alan Turing,PROPOSED,Turing Test
+Turing Test,DESCRIBED_IN,Computing Machinery and Intelligence
+Turing Test,PUBLISHED_IN_YEAR,1950
+Alan Turing,DIED_IN,Wilmslow
+Alan Turing,DIED_IN_YEAR,1954
+Wilmslow,LOCATED_IN,England

@@ -1,0 +1,10 @@
+Alan Turing was born in London in 1912.
+Alan Turing studied at King's College, Cambridge.
+Alan Turing later studied at Princeton University under Alonzo Church.
+In 1936, Alan Turing published "On Computable Numbers", which introduced the idea of the Turing machine.
+During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School.
+Alan Turing helped design the Bombe to break Enigma-encrypted messages.
+After the war, Alan Turing worked at the National Physical Laboratory and proposed the Automatic Computing Engine.
+Alan Turing later joined the University of Manchester and contributed to the Manchester Mark I.
+In 1950, Alan Turing proposed the Turing Test in the paper "Computing Machinery and Intelligence".
+Alan Turing died in Wilmslow, England, in 1954.

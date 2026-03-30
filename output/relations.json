@@ -1,0 +1,134 @@
+[
+  {
+    "subject": "Alan Turing",
+    "predicate": "BORN_IN",
+    "object": "London",
+    "evidence": "Alan Turing was born in London in 1912."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "BORN_IN_YEAR",
+    "object": "1912",
+    "evidence": "Alan Turing was born in London in 1912."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "STUDIED_AT",
+    "object": "King's College, Cambridge",
+    "evidence": "Alan Turing studied at King's College, Cambridge."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "STUDIED_AT",
+    "object": "Princeton University",
+    "evidence": "Alan Turing later studied at Princeton University under Alonzo Church."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "STUDIED_UNDER",
+    "object": "Alonzo Church",
+    "evidence": "Alan Turing later studied at Princeton University under Alonzo Church."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "PUBLISHED",
+    "object": "On Computable Numbers",
+    "evidence": "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine."
+  },
+  {
+    "subject": "On Computable Numbers",
+    "predicate": "PUBLISHED_IN_YEAR",
+    "object": "1936",
+    "evidence": "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine."
+  },
+  {
+    "subject": "On Computable Numbers",
+    "predicate": "INTRODUCED",
+    "object": "Turing machine",
+    "evidence": "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "WORKED_AT",
+    "object": "Bletchley Park",
+    "evidence": "During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "WORKED_FOR",
+    "object": "Government Code and Cypher School",
+    "evidence": "During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "DESIGNED",
+    "object": "Bombe",
+    "evidence": "Alan Turing helped design the Bombe to break Enigma-encrypted messages."
+  },
+  {
+    "subject": "Bombe",
+    "predicate": "USED_AGAINST",
+    "object": "Enigma",
+    "evidence": "Alan Turing helped design the Bombe to break Enigma-encrypted messages."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "WORKED_AT",
+    "object": "National Physical Laboratory",
+    "evidence": "After the war, Alan Turing worked at the National Physical Laboratory and proposed the Automatic Computing Engine."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "PROPOSED",
+    "object": "Automatic Computing Engine",
+    "evidence": "After the war, Alan Turing worked at the National Physical Laboratory and proposed the Automatic Computing Engine."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "JOINED",
+    "object": "University of Manchester",
+    "evidence": "Alan Turing later joined the University of Manchester and contributed to the Manchester Mark I."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "CONTRIBUTED_TO",
+    "object": "Manchester Mark I",
+    "evidence": "Alan Turing later joined the University of Manchester and contributed to the Manchester Mark I."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "PROPOSED",
+    "object": "Turing Test",
+    "evidence": "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\"."
+  },
+  {
+    "subject": "Turing Test",
+    "predicate": "DESCRIBED_IN",
+    "object": "Computing Machinery and Intelligence",
+    "evidence": "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\"."
+  },
+  {
+    "subject": "Turing Test",
+    "predicate": "PUBLISHED_IN_YEAR",
+    "object": "1950",
+    "evidence": "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\"."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "DIED_IN",
+    "object": "Wilmslow",
+    "evidence": "Alan Turing died in Wilmslow, England, in 1954."
+  },
+  {
+    "subject": "Alan Turing",
+    "predicate": "DIED_IN_YEAR",
+    "object": "1954",
+    "evidence": "Alan Turing died in Wilmslow, England, in 1954."
+  },
+  {
+    "subject": "Wilmslow",
+    "predicate": "LOCATED_IN",
+    "object": "England",
+    "evidence": "Alan Turing died in Wilmslow, England, in 1954."
+  }
+]

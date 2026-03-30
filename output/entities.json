@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Turing Test",
+    "type": "CONCEPT",
+    "mention_count": 1,
+    "sentence_ids": [
+      9
+    ],
+    "evidence": [
+      "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\"."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Turing machine",
+    "type": "CONCEPT",
+    "mention_count": 1,
+    "sentence_ids": [
+      4
+    ],
+    "evidence": [
+      "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Automatic Computing Engine",
+    "type": "DEVICE",
+    "mention_count": 1,
+    "sentence_ids": [
+      7
+    ],
+    "evidence": [
+      "After the war, Alan Turing worked at the National Physical Laboratory and proposed the Automatic Computing Engine."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Bombe",
+    "type": "DEVICE",
+    "mention_count": 1,
+    "sentence_ids": [
+      6
+    ],
+    "evidence": [
+      "Alan Turing helped design the Bombe to break Enigma-encrypted messages."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Enigma",
+    "type": "DEVICE",
+    "mention_count": 1,
+    "sentence_ids": [
+      6
+    ],
+    "evidence": [
+      "Alan Turing helped design the Bombe to break Enigma-encrypted messages."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Manchester Mark I",
+    "type": "DEVICE",
+    "mention_count": 1,
+    "sentence_ids": [
+      8
+    ],
+    "evidence": [
+      "Alan Turing later joined the University of Manchester and contributed to the Manchester Mark I."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "World War II",
+    "type": "EVENT",
+    "mention_count": 1,
+    "sentence_ids": [
+      5
+    ],
+    "evidence": [
+      "During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Cambridge",
+    "type": "LOCATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      2
+    ],
+    "evidence": [
+      "Alan Turing studied at King's College, Cambridge."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "England",
+    "type": "LOCATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      10
+    ],
+    "evidence": [
+      "Alan Turing died in Wilmslow, England, in 1954."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "London",
+    "type": "LOCATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      1
+    ],
+    "evidence": [
+      "Alan Turing was born in London in 1912."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Wilmslow",
+    "type": "LOCATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      10
+    ],
+    "evidence": [
+      "Alan Turing died in Wilmslow, England, in 1954."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Bletchley Park",
+    "type": "ORGANIZATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      5
+    ],
+    "evidence": [
+      "During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Government Code and Cypher School",
+    "type": "ORGANIZATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      5
+    ],
+    "evidence": [
+      "During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "King's College, Cambridge",
+    "type": "ORGANIZATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      2
+    ],
+    "evidence": [
+      "Alan Turing studied at King's College, Cambridge."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "National Physical Laboratory",
+    "type": "ORGANIZATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      7
+    ],
+    "evidence": [
+      "After the war, Alan Turing worked at the National Physical Laboratory and proposed the Automatic Computing Engine."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Princeton University",
+    "type": "ORGANIZATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      3
+    ],
+    "evidence": [
+      "Alan Turing later studied at Princeton University under Alonzo Church."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "University of Manchester",
+    "type": "ORGANIZATION",
+    "mention_count": 1,
+    "sentence_ids": [
+      8
+    ],
+    "evidence": [
+      "Alan Turing later joined the University of Manchester and contributed to the Manchester Mark I."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Alan Turing",
+    "type": "PERSON",
+    "mention_count": 10,
+    "sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "evidence": [
+      "Alan Turing was born in London in 1912.",
+      "Alan Turing studied at King's College, Cambridge.",
+      "Alan Turing later studied at Princeton University under Alonzo Church.",
+      "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine.",
+      "During World War II, Alan Turing worked at Bletchley Park for the Government Code and Cypher School.",
+      "Alan Turing helped design the Bombe to break Enigma-encrypted messages.",
+      "After the war, Alan Turing worked at the National Physical Laboratory and proposed the Automatic Computing Engine.",
+      "Alan Turing later joined the University of Manchester and contributed to the Manchester Mark I.",
+      "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\".",
+      "Alan Turing died in Wilmslow, England, in 1954."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "Alonzo Church",
+    "type": "PERSON",
+    "mention_count": 1,
+    "sentence_ids": [
+      3
+    ],
+    "evidence": [
+      "Alan Turing later studied at Princeton University under Alonzo Church."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "1912",
+    "type": "TIME",
+    "mention_count": 1,
+    "sentence_ids": [
+      1
+    ],
+    "evidence": [
+      "Alan Turing was born in London in 1912."
+    ],
+    "source": "rule_based_regex"
+  },
+  {
+    "name": "1936",
+    "type": "TIME",
+    "mention_count": 1,
+    "sentence_ids": [
+      4
+    ],
+    "evidence": [
+      "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine."
+    ],
+    "source": "rule_based_regex"
+  },
+  {
+    "name": "1950",
+    "type": "TIME",
+    "mention_count": 1,
+    "sentence_ids": [
+      9
+    ],
+    "evidence": [
+      "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\"."
+    ],
+    "source": "rule_based_regex"
+  },
+  {
+    "name": "1954",
+    "type": "TIME",
+    "mention_count": 1,
+    "sentence_ids": [
+      10
+    ],
+    "evidence": [
+      "Alan Turing died in Wilmslow, England, in 1954."
+    ],
+    "source": "rule_based_regex"
+  },
+  {
+    "name": "Computing Machinery and Intelligence",
+    "type": "WORK",
+    "mention_count": 1,
+    "sentence_ids": [
+      9
+    ],
+    "evidence": [
+      "In 1950, Alan Turing proposed the Turing Test in the paper \"Computing Machinery and Intelligence\"."
+    ],
+    "source": "rule_based_dictionary"
+  },
+  {
+    "name": "On Computable Numbers",
+    "type": "WORK",
+    "mention_count": 1,
+    "sentence_ids": [
+      4
+    ],
+    "evidence": [
+      "In 1936, Alan Turing published \"On Computable Numbers\", which introduced the idea of the Turing machine."
+    ],
+    "source": "rule_based_dictionary"
+  }
+]
